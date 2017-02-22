@@ -1,0 +1,40 @@
+<html>
+<head>
+<title>添加员工信息</title>
+</head>
+<body>
+<body bgcolor="#fffccc">
+<form method="POST" action="<?php echo $PHP_SELF?>">
+   <input type=hidden name="id" value="<?php echo $id ?>">
+   姓名：<input type="Text" name="name" value="<?php echo $name?>">
+   <br>
+   住址：<input type="Text" name="address" value="<?php echo $address?>">
+   <br>
+   职位：<input type="Text" name="positon" value="<?php echo $position ?>">
+   </p>
+   <input type="Submit" name="submit" value="输入信息" >
+   </form>
+<?php
+$db=mysql_connect("localhost", "root", "root") or
+     die ("sorry,unable to connect to database");
+//连接数据库
+mysql_select_db("blog",$db)or die ("unable to select database");
+//选择数据库
+?>
+<?php
+if($_POST['submit']=="输入信息"){ 
+	$name = $_POST['name'];
+	$address = $_POST['address'];
+	$position = $_POST['position'];
+	if($_POST['name']==""||$_POST['address']==""||$_POST['position']==""){
+		echo "<font color =red> 添加失败，请把信息填写完整</font><br>";
+	}else{
+  $sql="INSERT INTO hd_test (name,address,position) VALUES ('$name','$address','$position')";
+  //向数据库发出 SQL 命令
+  $result=mysql_query($sql);
+  echo "<font color=red>记录插入成功！!</font><br>";
+  }
+}
+?>
+</body>
+</html>

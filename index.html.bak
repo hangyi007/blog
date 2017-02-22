@@ -1,0 +1,704 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html;  charset=utf-8" />
+<title>福满仓中式快餐_特色快餐投资-广州市百荣餐饮</title>
+<meta name="Keywords" content="福满仓,福满仓招商投资,福满仓中式快餐,福满仓中式快餐投资,广州市百荣餐饮" />
+<meta name="Description" content="福满仓中式快餐传承千载骨香经典,3-15㎡投资2个人的快餐店1天收入大于一个月工资,无需经验总部系统培训成功率高达99%,是2016年小本投资的最优选择！" />
+<link href="templets/default/style/index.css" rel="stylesheet" type="text/css" />
+<link rel="stylesheet" href="templets/default/style/nivo-slider.css" type="text/css" media="screen" />
+<script type="text/javascript" src="templets/default/js/jquery-1.4.3.min.js"></script>
+<script type="text/javascript" src="templets/default/js/jquery.nivo.slider.pack.js"></script>
+<script type="text/javascript">
+	$(window).load(function() {
+		$('#slider').nivoSlider();
+	});
+</script>
+ <!--<script type="text/javascript">
+ function mobileClient () {
+	var str=window.top.location.search;
+	var gourl=window.location.pathname;
+	if (str.indexOf('?pc')==-1)
+	{
+		var $nav = navigator.userAgent;
+		if($nav.match(/(iPhone|iPod|Android|ios|iPad|Linux;)/i)){
+			if(window.location.host == "电脑网站"){			
+				location.href = "手机网站";
+			}
+		}
+	}
+}
+mobileClient();</script>-->-->
+<script type="text/javascript" src="templets/default/js/js.js"></script><!--经典美食-->
+<!--[if IE 6]>
+<script type="text/javascript" src="templets/default/js/DD_belatedPNG.js"></script>
+<script>DD_belatedPNG.fix('div, ul, img, li, input , a');</script>
+<![endif]--> 
+
+<!--<script src="http://siteapp.baidu.com/static/webappservice/uaredirect.js" type="text/javascript"></script>-->
+<!--<script type="text/javascript">uaredirect("../51fmc/index.html");</script>-->
+
+
+</head>
+
+<body>
+
+
+<!--<b id="pp" >欢迎光临</b>-->
+<!--导航菜单开始-->
+<div class="top">
+ <div class="top_div">
+  <div class="top_logo"><a href="index.html"><img src="templets/default/images/top_logo.png" /></a></div>
+  <div class="top_other"><a href="index.html">首页</a> · <a href="javascript:" onClick="jscript:window.external.AddFavorite(document.location.href,document.title);">收藏本页</a>
+
+ <a href="data/sitemap.html" target="_blank" style="background-image: url(templets/default/images/button_left_07.png) ;font-size: 21.5px;" id="jiamen" >招商加盟</a> </div>
+  <div class="warp_nav">
+    <ul class="nav">
+        <li><a href="index.html" rel="nofollow" class="nav_tangshf" >返回首页</a></li>    
+        <li class="nav_one" onmouseover="this.className='nav_two_jtjj'" onmouseout="this.className='nav_one'">
+        
+             <a href="jtjj/">公司介绍</a>
+            
+            <div id="nav_other">
+                <div class="nav_other_bg">
+                      <a href='jtjj/index.html'>公司简介</a>
+                     <a href='jtjj/jtfc/jtzb.html'>公司风采</a>
+                     <a href='jtjj/jtxw/jtxw.html'>公司新闻</a>
+                    
+                </div>
+            </div>
+        </li>
+        <li class="nav_one" onmouseover="this.className='nav_two_ppjy'" onmouseout="this.className='nav_one'">
+        
+             <a href="ppjy/ppjy.html">品牌基因</a>       
+        
+            <div id="nav_other">
+                <div class="nav_other_bg">
+                      <a href='ppjy/ppjy.html'>品牌介绍</a>
+                     <a href='ppjj/ppxx.html'>品牌形象</a>
+                     <a href='ppjj/dpxx.html'>店铺形象</a>
+                    
+                </div>
+            </div>
+        </li>
+        <li class="nav_one" onmouseover="this.className='nav_two_ppqj'" onmouseout="this.className='nav_one'">
+            
+             <a href="ppqj/">品牌前景</a>
+            
+            <div id="nav_other">
+                <div class="nav_other_bg">
+                      <a href='ppqj/ppqj.html'>市场前景</a>
+                     <a href='ppqj/ylfx.html'>盈利分析</a>
+                    
+                </div>
+            </div>
+        </li>
+        <li class="nav_one" onmouseover="this.className='nav_two_ppys'" onmouseout="this.className='nav_one'">
+        
+             <a href="ppys/">品牌优势</a>
+        
+            <div id="nav_other">
+                <div class="nav_other_bg">
+                      <a href='ppys/ppys.html'>产品优势</a>
+                     <a href='ppys/xmys.html'>项目优势</a>
+                     <a href='ppys/jjys.html'>经营优势</a>
+                    
+                </div>
+            </div>
+        </li>
+        <li class="nav_one" onmouseover="this.className='nav_two_mstd'" onmouseout="this.className='nav_one'">
+        
+             <a href="mstd/jdms/jdms.html">美食天地</a>
+        
+            <div id="nav_other">
+                <div class="nav_other_bg">
+                      <a href='mstd/jdms/jdms.html'>经典美食</a>
+                     <a href='mstd/mscd.html'>美食菜单</a>
+                    
+                </div>
+            </div>
+        </li>
+        <li class="nav_one" onmouseover="this.className='nav_two_zszq'" onmouseout="this.className='nav_one'">
+        
+             <a href="zszq.html">招商专区</a>
+        
+            <div id="nav_other">
+                <div class="nav_other_bg">
+                      <a href='zszq/zszq.html'>准入条件</a>
+                     <a href='zszq/ddtz.html'>单店投资</a>
+                     <a href='zszq/qydl.html'>区域代理</a>
+                     <a href='qydl/hzlc.html'>合作流程</a>
+                     <a href='zszq/tzwd.html'>投资问答</a>
+                    
+                </div>
+            </div>
+        </li>
+        <li class="nav_one" onmouseover="this.className='nav_two_cyzc'" onmouseout="this.className='nav_one'">
+        
+             <a href="cyzc.html">创业支持</a>
+        
+            <div id="nav_other">
+                <div class="nav_other_bg">
+                      <a href='cyzc/cyzc.html'>总部支持</a>
+                     <a href='cyzc/fwsl.html'>服务实力</a>
+                    
+                </div>
+            </div>
+        </li>
+        <li class="nav_one" onmouseover="this.className='nav_two_lxwm'" onmouseout="this.className='nav_one'"> 
+        
+             <a href="lxwm.html">联系我们</a>
+        
+            <div id="nav_other">
+                <div class="nav_other_bg">
+                      <a href='lxwm/lxwm.html'>在线留言</a>
+                     <a href='lxwm/lxfs.html'>联系方式</a>
+                    
+                </div>
+            </div>
+        </li>
+    </ul>
+  </div>
+ </div>
+</div>
+<!--焦点图开始-->
+<div id="wrapper">
+ <div id="slider-wrapper">
+  <div id="slider" class="nivoSlider">
+   <iframe src="templets/datu.html" name="view_frame" 
+
+width="100%" height="388" scrolling="No" frameborder="0" id="view_frame" allowtransparency="allowTransparency" border="0" scrollbars="on"></iframe>
+   <!--<a href="#"><img src="templets/default/images/walle01.jpg" tppabs="../templets/default/images/walle01.jpg" alt="" /></a>-->
+  </div>
+ </div>
+</div>
+<!--三模块开始-->
+<div class="main">
+ <div class="index_jdms">
+  <div class="index_jdms_title"><img src="templets/default/images/index_jdms.jpg" border="0" usemap="#Map" />
+    <map name="Map" id="Map">
+      <area shape="rect" coords="234,10,299,25" href="mstd/jdms/ypx/ypx.html" />
+    </map>
+  </div>
+  <div class="index_jdms_pic">
+   <ul class="pic_turn">
+        <li><img src="templets/default/images/index_jdms/ad01.jpg" alt="banner1" /></li>
+        <li class="hidden"><img src="templets/default/images/index_jdms/ad02.jpg" /></li>
+        <li class="hidden"><img src="templets/default/images/index_jdms/ad03.jpg" /></li>
+        <li class="hidden"><img src="templets/default/images/index_jdms/ad04.jpg" /></li>
+        <li class="hidden"><img src="templets/default/images/index_jdms/ad05.jpg" /></li>
+   </ul>
+   <ul id="fk">
+        <li style="background:url(/templets/default/images/fk1.jpg) no-repeat;"></li>
+        <li></li>
+        <li></li>
+        <li></li>
+        <li></li>
+   </ul>
+  </div>
+  <div class="index_jdms_word">
+   <font>名俗铁锅技术无人能敌</font>
+   <span>福满仓中式名俗快餐传承古方，经现代先进工艺烹制，味道更美味，铁香满满，诱惑难挡！</span>
+  </div>
+ </div>
+ <!--经典美食结束-->
+ <div class="index_stdp">
+  <div class="index_jdms_title"><img src="templets/default/images/index_stdp.jpg" border="0" usemap="#Map2" />
+    <map name="Map2" id="Map2">
+      <area shape="rect" coords="234,8,297,25" href="ppjj/dpxx.html" />
+    </map>
+  </div>
+  <div class="index_jdms_pic">
+   <ul class="pic_turn_other">
+        <li><img src="templets/default/images/index_stdp/ad01.jpg" alt="" /></li>
+        <li class="hidden"><img src="templets/default/images/index_stdp/ad02.jpg" /></li>
+        <li class="hidden"><img src="templets/default/images/index_stdp/ad04.jpg" /></li>
+        <li class="hidden"><img src="templets/default/images/index_stdp/ad05.jpg" /></li>
+   </ul>
+   <ul id="fk_other">
+        <li style="background:url(/templets/default/images/fk1.jpg) no-repeat;"></li>
+        <li></li>
+        <li></li>
+        <li></li>
+   </ul>
+  </div>
+  <div class="index_jdms_word">
+   <font>风靡盈利贵在创意</font>
+   <span>福满仓—种彰显民俗风情美食的铁锅快餐，以补铁养生理论为品牌发展基点，众捧热销！</span>
+  </div>
+ </div>
+ <!--实体店铺结束-->
+ <div class="index_zxdt">
+  <div class="index_jdms_title"><img src="templets/default/images/index_zxdt.jpg" border="0" usemap="#Map3" />
+    <map name="Map3" id="Map3">
+      <area shape="rect" coords="246,10,297,23" href="" />
+    </map>
+  </div>
+  <div class="news-content">
+    <div id=demo class="news-demo"> 
+       <div id=demo1 align="left">
+       
+       <ul>
+         <li><div class="news-time">2015-08-05</div>热烈庆祝梅女士成功签约</li>
+        </ul>
+<ul>
+         <li><div class="news-time">2015-08-04</div>热烈庆祝饶女士成功签约</li>
+        </ul>
+<ul>
+         <li><div class="news-time">2015-08-04</div>热烈庆祝曹女士成功签约</li>
+        </ul>
+<ul>
+         <li><div class="news-time">2015-08-03</div>热烈庆祝罗女士成功签约</li>
+        </ul>
+<ul>
+         <li><div class="news-time">2015-08-03</div>热烈庆祝姜先生成功签约</li>
+        </ul>
+<ul>
+         <li><div class="news-time">2015-08-02</div>热烈庆祝贾先生成功签约</li>
+        </ul>
+<ul>
+         <li><div class="news-time">2015-08-01</div>热烈庆祝鲍女士成功签约</li>
+        </ul>
+<ul>
+         <li><div class="news-time">2015-07-31</div>热烈庆祝郭先生成功签约</li>
+        </ul>
+<ul>
+         <li><div class="news-time">2015-07-30</div>热烈庆祝占女士成功签约</li>
+        </ul>
+<ul>
+         <li><div class="news-time">2015-07-30</div>热烈庆祝岩女士成功签约</li>
+        </ul>
+<ul>
+         <li><div class="news-time">2015-07-29</div>热烈庆祝马先生成功签约</li>
+        </ul>
+<ul>
+         <li><div class="news-time">2015-07-29</div>热烈庆祝魏先生成功签约</li>
+        </ul>
+<ul>
+         <li><div class="news-time">2015-07-28</div>热烈庆祝舒先生成功签约</li>
+        </ul>
+<ul>
+         <li><div class="news-time">2015-07-28</div>热烈庆祝薛先生成功签约</li>
+        </ul>
+<ul>
+         <li><div class="news-time">2015-07-28</div>热烈庆祝侯先生成功签约</li>
+        </ul>
+<ul>
+         <li><div class="news-time">2015-07-27</div>热烈庆祝杜女士成功签约</li>
+        </ul>
+<ul>
+         <li><div class="news-time">2015-07-26</div>热烈庆祝栗女士成功签约</li>
+        </ul>
+<ul>
+         <li><div class="news-time">2015-07-26</div>热烈庆祝方先生成功签约</li>
+        </ul>
+<ul>
+         <li><div class="news-time">2015-07-26</div>热烈庆祝何先生成功签约</li>
+        </ul>
+<ul>
+         <li><div class="news-time">2015-07-25</div>热烈庆祝任女士成功签约</li>
+        </ul>
+<ul>
+         <li><div class="news-time">2015-07-25</div>热烈庆祝许先生成功签约</li>
+        </ul>
+<ul>
+         <li><div class="news-time">2015-07-24</div>热烈庆祝王女士成功签约</li>
+        </ul>
+<ul>
+         <li><div class="news-time">2015-07-23</div>热烈庆祝宇女士成功签约</li>
+        </ul>
+<ul>
+         <li><div class="news-time">2015-07-22</div>热烈庆祝李女士成功签约</li>
+        </ul>
+<ul>
+         <li><div class="news-time">2015-07-21</div>热烈庆祝宁女士成功签约</li>
+        </ul>
+<ul>
+         <li><div class="news-time">2015-07-20</div>热烈庆祝孟先生成功签约</li>
+        </ul>
+<ul>
+         <li><div class="news-time">2015-07-19</div>热烈庆祝张女士成功签约</li>
+        </ul>
+<ul>
+         <li><div class="news-time">2015-07-19</div>热烈庆祝薛女士成功签约</li>
+        </ul>
+<ul>
+         <li><div class="news-time">2015-07-18</div>热烈庆祝于先生成功签约</li>
+        </ul>
+<ul>
+         <li><div class="news-time">2015-07-17</div>热烈庆祝安女士成功签约</li>
+        </ul>
+<ul>
+         <li><div class="news-time">2015-07-16</div>热烈庆祝殷女士成功签约</li>
+        </ul>
+<ul>
+         <li><div class="news-time">2015-07-15</div>热烈庆祝李先生成功签约</li>
+        </ul>
+<ul>
+         <li><div class="news-time">2015-07-15</div>热烈庆祝贺女士成功签约</li>
+        </ul>
+<ul>
+         <li><div class="news-time">2015-07-14</div>热烈庆祝阮先生成功签约</li>
+        </ul>
+<ul>
+         <li><div class="news-time">2015-07-13</div>热烈庆祝黎女士成功签约</li>
+        </ul>
+<ul>
+         <li><div class="news-time">2015-07-13</div>热烈庆祝王先生成功签约</li>
+        </ul>
+<ul>
+         <li><div class="news-time">2015-07-12</div>热烈庆祝欧阳先生成功签约</li>
+        </ul>
+<ul>
+         <li><div class="news-time">2015-07-11</div>热烈庆祝赵女士成功签约</li>
+        </ul>
+<ul>
+         <li><div class="news-time">2015-07-10</div>热烈庆祝刘先生成功签约</li>
+        </ul>
+<ul>
+         <li><div class="news-time">2015-07-10</div>热烈庆祝邸女士成功签约</li>
+        </ul>
+<ul>
+         <li><div class="news-time">2015-07-09</div>热烈庆祝郭先生成功签约</li>
+        </ul>
+<ul>
+         <li><div class="news-time">2015-07-08</div>热烈庆祝胡女士成功签约</li>
+        </ul>
+<ul>
+         <li><div class="news-time">2015-07-07</div>热烈庆祝张先生成功签约</li>
+        </ul>
+<ul>
+         <li><div class="news-time">2015-07-07</div>热烈庆祝谭先生成功签约</li>
+        </ul>
+<ul>
+         <li><div class="news-time">2015-07-06</div>热烈庆祝杨女士成功签约</li>
+        </ul>
+<ul>
+         <li><div class="news-time">2015-07-05</div>热烈庆祝王先生成功签约</li>
+        </ul>
+<ul>
+         <li><div class="news-time">2015-07-04</div>热烈庆祝武先生成功签约</li>
+        </ul>
+<ul>
+         <li><div class="news-time">2015-07-03</div>热烈庆祝吴女士成功签约</li>
+        </ul>
+<ul>
+         <li><div class="news-time">2015-07-02</div>热烈庆祝竹女士成功签约</li>
+        </ul>
+<ul>
+         <li><div class="news-time">2015-07-01</div>热烈庆祝钱先生成功签约</li>
+        </ul>
+<ul>
+         <li><div class="news-time">2015-06-30</div>热烈庆祝贾先生成功签约</li>
+        </ul>
+<ul>
+         <li><div class="news-time">2015-06-30</div>热烈庆祝丁先生成功签约</li>
+        </ul>
+<ul>
+         <li><div class="news-time">2015-06-29</div>热烈庆祝单先生成功签约</li>
+        </ul>
+<ul>
+         <li><div class="news-time">2015-06-28</div>热烈庆祝孙女士成功签约</li>
+        </ul>
+<ul>
+         <li><div class="news-time">2015-06-27</div>热烈庆祝秦女士成功签约</li>
+        </ul>
+<ul>
+         <li><div class="news-time">2015-06-26</div>热烈庆祝周女士成功签约</li>
+        </ul>
+<ul>
+         <li><div class="news-time">2015-06-25</div>热烈庆祝赵先生成功签约</li>
+        </ul>
+<ul>
+         <li><div class="news-time">2015-06-24</div>热烈庆祝朱先生成功签约</li>
+        </ul>
+<ul>
+         <li><div class="news-time">2015-06-23</div>热烈庆祝孙先生成功签约</li>
+        </ul>
+<ul>
+         <li><div class="news-time">2015-06-22</div>热烈庆祝李女士成功签约</li>
+        </ul>
+<ul>
+         <li><div class="news-time">2015-06-21</div>热烈庆祝王女士成功签约</li>
+        </ul>
+<ul>
+         <li><div class="news-time">2015-06-20</div>热烈庆祝邸女士成功签约</li>
+        </ul>
+<ul>
+         <li><div class="news-time">2015-06-20</div>热烈庆祝朱先生成功签约</li>
+        </ul>
+<ul>
+         <li><div class="news-time">2015-06-19</div>热烈庆祝郭先生成功签约</li>
+        </ul>
+<ul>
+         <li><div class="news-time">2015-06-19</div>热烈庆祝张先生成功签约</li>
+        </ul>
+<ul>
+         <li><div class="news-time">2015-06-18</div>热烈庆祝孙女士成功签约</li>
+        </ul>
+<ul>
+         <li><div class="news-time">2015-06-17</div>热烈庆祝张女士成功签约</li>
+        </ul>
+<ul>
+         <li><div class="news-time">2015-06-16</div>热烈庆祝李女士成功签约</li>
+        </ul>
+<ul>
+         <li><div class="news-time">2015-06-15</div>热烈庆祝王先生成功签约</li>
+        </ul>
+<ul>
+         <li><div class="news-time">2015-06-14</div>热烈庆祝王先生成功签约</li>
+        </ul>
+<ul>
+         <li><div class="news-time">2015-06-14</div>热烈庆祝耿女士成功签约</li>
+        </ul>
+<ul>
+         <li><div class="news-time">2015-06-13</div>热烈庆祝宋女士成功签约</li>
+        </ul>
+<ul>
+         <li><div class="news-time">2015-06-13</div>热烈庆祝凌先生成功签约</li>
+        </ul>
+<ul>
+         <li><div class="news-time">2015-06-13</div>热烈庆祝杨先生成功签约</li>
+        </ul>
+<ul>
+         <li><div class="news-time">2015-06-13</div>热烈庆祝潘先生成功签约</li>
+        </ul>
+<ul>
+         <li><div class="news-time">2015-06-12</div>热烈庆祝王女士成功签约</li>
+        </ul>
+<ul>
+         <li><div class="news-time">2015-06-11</div>热烈庆祝闫先生成功签约</li>
+        </ul>
+<ul>
+         <li><div class="news-time">2015-06-11</div>热烈庆祝王先生成功签约</li>
+        </ul>
+<ul>
+         <li><div class="news-time">2015-06-10</div>热烈庆祝李女士成功签约</li>
+        </ul>
+<ul>
+         <li><div class="news-time">2015-06-10</div>热烈庆祝齐女士成功签约</li>
+        </ul>
+<ul>
+         <li><div class="news-time">2015-06-09</div>热烈庆祝庄先生成功签约</li>
+        </ul>
+<ul>
+         <li><div class="news-time">2015-06-09</div>热烈庆祝徐先生成功签约</li>
+        </ul>
+<ul>
+         <li><div class="news-time">2015-06-09</div>热烈庆祝许女士成功签约</li>
+        </ul>
+<ul>
+         <li><div class="news-time">2015-06-08</div>热烈庆祝宋女士成功签约</li>
+        </ul>
+<ul>
+         <li><div class="news-time">2015-06-08</div>热烈庆祝袁先生成功签约</li>
+        </ul>
+<ul>
+         <li><div class="news-time">2015-06-07</div>热烈庆祝孙先生成功签约</li>
+        </ul>
+<ul>
+         <li><div class="news-time">2015-06-07</div>热烈庆祝韩先生成功签约</li>
+        </ul>
+<ul>
+         <li><div class="news-time">2015-06-06</div>热烈庆祝丁先生成功签约</li>
+        </ul>
+<ul>
+         <li><div class="news-time">2015-06-06</div>热烈庆祝高女士成功签约</li>
+        </ul>
+<ul>
+         <li><div class="news-time">2015-06-05</div>热烈庆祝肖先生成功签约</li>
+        </ul>
+<ul>
+         <li><div class="news-time">2015-06-05</div>热烈庆祝林先生成功签约</li>
+        </ul>
+<ul>
+         <li><div class="news-time">2015-06-05</div>热烈庆祝黑先生成功签约</li>
+        </ul>
+<ul>
+         <li><div class="news-time">2015-06-04</div>热烈庆祝朱女士成功签约</li>
+        </ul>
+<ul>
+         <li><div class="news-time">2015-06-04</div>热烈庆祝李女士成功签约</li>
+        </ul>
+<ul>
+         <li><div class="news-time">2015-06-03</div>热烈庆祝钱女士成功签约</li>
+        </ul>
+<ul>
+         <li><div class="news-time">2015-06-03</div>热烈庆祝丛先生成功签约</li>
+        </ul>
+<ul>
+         <li><div class="news-time">2015-06-02</div>热烈庆祝胡先生成功签约</li>
+        </ul>
+<ul>
+         <li><div class="news-time">2015-06-02</div>热烈庆祝王先生成功签约</li>
+        </ul>
+<ul>
+         <li><div class="news-time">2015-06-01</div>热烈庆祝赵女士成功签约</li>
+        </ul>
+<ul>
+         <li><div class="news-time">2015-06-01</div>热烈庆祝钱先生成功签约</li>
+        </ul>
+
+       
+       </div> 
+       <div id=demo2 align="left"></div> 
+    </div>
+    <script language="javascript" src="templets/default/js/demo.js"></script>
+   </div>
+ </div>
+
+ <!-- 新添加 start -->
+
+ <div class="rhx_zzkw"></div>
+ <div class="rhx_zzkw2">
+ 	<iframe src="flv-mp4/bofanqi.html" name="view_frame" 
+
+width="100%" height="350" scrolling="No" frameborder="0" id="view_frame" allowtransparency="allowTransparency" border="0" scrollbars="on"></iframe>
+ 	
+ </div>
+ <!--<div class="rhx_shipinCon">
+  <div class="rhx_shipin">
+    <!--<embed src="../static.video.qq.com/TPout.swf-vid=g0155r8mkwb&auto=0" tppabs="http://static.video.qq.com/TPout.swf?vid=g0155r8mkwb&auto=0" wmode="transparent" allowFullScreen="true" quality="high" width="629" height="332" align="middle" allowScriptAccess="always" type="application/x-shockwave-flash"></embed>
+  <iframe src="templets/default/top.html" name="view_frame" 
+
+width="100%" height="350" scrolling="No" frameborder="0" id="view_frame" allowtransparency="allowTransparency" border="0" scrollbars="on"></iframe>
+  
+  </div>
+ </div>-->
+
+ <!-- 新添加 end -->
+
+ <div class="c"></div>
+</div>
+<!--底部开始-->
+<!-- WPA Button Begin -->
+<script charset="utf-8" type="text/javascript" src="../wpa.b.qq.com/cgi/wpa.phpkey=XzgwMDAyODM5Nl8xNjU3NDZfODAwMDI4Mzk2Xw.js"></script>
+<!-- WPA Button END -->
+
+<div class="footer">
+ <div class="footer_box">
+  <div class="footer_logo"><img src="templets/default/images/foot_logo.png" alt="广州市百荣餐饮" /></div>
+  <div class="footer_word">
+   <span>
+    <a href="index.html">官方首页</a> | 
+    <a href="ppqj/ppqj.html">市场前景</a> | 
+    <a href="ppqj/ylfx.html">盈利分析</a> | 
+    <a href="ppys/ppys.html">产品优势</a> | 
+    <a href="zszq/zszq.html">准入条件</a> | 
+    <a href="zszq/ddtz.html">单店投资</a> | 
+    <a href="qydl/hzlc.html">合作流程</a> | 
+    <a href="ppys/xmys.html">项目优势</a> | 
+    <a href="lxwm/lxfs.html">联系我们</a> | 
+<script src="../s21.cnzz.com/stat.phpid=4963761&web_id=4963761.php" language="JavaScript"></script>
+   </span>
+ 
+   <span class="fontstyle02">招商热线:<i style="font-size:30px;">4000-854-788</i></span>
+   <span>2006-2018  福满仓项目总部保留所有权利商标 ｜隐私权声明</span>
+  </div>
+ </div>
+</div>
+
+<!--<SCRIPT LANGUAGE="JavaScript" src="http://float2006.tq.cn/floatcard?adminid=8511477&sort=0&version=vip"></SCRIPT>中间-->
+
+<script>
+	function Click()
+    {window.open('http://vipwebchat.tq.cn/pageinfo.jsp?action=acd&admiuin=8511477&acd=1&type_code=1<ype=1&sort=0&lasttalkuin=&rand=6699875615794425&comtimes=7&iscallback=1&agentid=0&isAgent=0&page=&localurl=http://www.ypfx88.com/fhsy.asp&spage=','_blank');
+}</script>
+<!--=============================QQ==========================-->
+<script charset="utf-8" src="../wpa.b.qq.com/cgi/wpa.php.js"></script>
+<script type="text/javascript">
+    BizQQWPA.addCustom([
+        {
+            aty: '1',
+            a: '1002',
+            nameAccount: '800028396',
+            selector: 'BizQQWPA'
+        },
+        {
+            aty: '1',
+            a: '1003',
+            nameAccount: '800028396',
+            selector: 'BizQQWPA1'
+        }
+    ]);
+</script>
+
+<!--<div class="kefu" style="display:none;">
+  <div class="kefu_box">
+    <div><img src="templets/default/images/qq/tq-top.png" /></div>
+    <div class="kefu_body"> <span class="online"><a href="http://vipwebchat.tq.cn/sendmain.jsp?admiuin=8511477&uin=8511477&tag=<ype=1&rand=5806701208218527&iscallback=1&agentid=0&type_name=sss&type_code=1&comtimes=8&preuin=8800830&pretacticid=1&is_send_mail=0&is_message_sms=0&style=1&color=2&sex=&page=http://c.51qlao.com/rhx1305/makehtml_homepage.php&localurl=http%3A//c.51qlao.com/index.html&spage=http://c.51qlao.com/rhx1305/makehtml_homepage.php&nocache=0.4607178038954183" target="_blank" ><img src="templets/default/images/qq/online.gif"alt="广州市百荣餐饮" /></a></span> <span class="online"><a href="http://vipwebchat.tq.cn/sendmain.jsp?admiuin=8511477&uin=8511477&tag=<ype=1&rand=5806701208218527&iscallback=1&agentid=0&type_name=sss&type_code=1&comtimes=8&preuin=8800830&pretacticid=1&is_send_mail=0&is_message_sms=0&style=1&color=2&sex=&page=http://c.51qlao.com/rhx1305/makehtml_homepage.php&localurl=http%3A//c.51qlao.com/index.html&spage=http://c.51qlao.com/rhx1305/makehtml_homepage.php&nocache=0.4607178038954183" target="_blank" ><img src="templets/default/images/qq/online.gif" alt="广州市百荣餐饮" /></a></span> <span class="online"><a href="http://vipwebchat.tq.cn/sendmain.jsp?admiuin=8511477&uin=8511477&tag=<ype=1&rand=5806701208218527&iscallback=1&agentid=0&type_name=sss&type_code=1&comtimes=8&preuin=8800830&pretacticid=1&is_send_mail=0&is_message_sms=0&style=1&color=2&sex=&page=http://c.51qlao.com/rhx1305/makehtml_homepage.php&localurl=http%3A//c.51qlao.com/index.html&spage=http://c.51qlao.com/rhx1305/makehtml_homepage.php&nocache=0.4607178038954183" target="_blank" ><img src="templets/default/images/qq/online.gif" alt="广州市百荣餐饮" /></a></span> <span class="line"></span> <span class="qq"><img src="templets/default/images/qq/qq.gif" alt="广州市百荣餐饮" id="BizQQWPA" style="cursor:pointer;" /></span> <span class="qq"><img src="templets/default/images/qq/qq.gif" alt="广州市百荣餐饮" id="BizQQWPA1" style="cursor:pointer;" /></span> <span class="time"> <a href="http://vip.tq.cn/vip/leavemsg.do?admiuin=8511477&uin=8803806&tag=call<ype=1&rand=5806701208218527&iscallback=1&agentid=0&type_name=sss&type_code=1&comtimes=13&preuin=8511477&pretacticid=1&pagetype=leavemsg&is_send_mail=0&is_message_sms=0&style=1&color=2&sex=&page=http://c.51qlao.com/rhx1305/makehtml_homepage.php&localurl=http://c.51qlao.com/index.html&spage=http://c.51qlao.com/rhx1305/makehtml_homepage.php&nocache=0.6387335306054944" target="_blank"><img src="../templets/default/images/qq/time.gif" title="百荣福满仓免费电话" /></a></span> <span class="phone">蔡经理<br />
+     18688402891<br />
+</span> </div>
+    <div><a href="http://download.brcy58.cc/report/51fmc/rhx_report.doc" target="_blank"><img src="templets/default/images/qq/tq-foot.png" alt="广州市百荣餐饮" /></a></div>
+  </div>
+</div>-->
+<style type="text/css">
+
+/*弹窗悬浮*/
+.msgWrap{display:none;z-index:999;
+position:absolute;width:394px;height:210px;background:transparent url(templets/default/images/zn_msgBg.png) no-repeat;animation:myfirst 15s infinite alternate;}
+@keyframes myfirst
+{
+0%   { left:0px; top:0px;}
+25%  { left:1200px; top:0px;}
+50%  { left:1200px; top:450px;}
+75%  { left:0px; top:450px;}
+100% {left:0px; top:0px;}
+}
+
+.msgClose{ position:absolute;right:10px;top:20px;display:block;width:25px;height:25px;overflow:hidden;
+text-decoration:none;}
+.msgBtn{display: block;width:74px;height:20px;position: absolute;}
+.msgBtn2{left:48px;bottom:35px;background:url(templets/default/images/zn_djlq.png) no-repeat;
+text-decoration:none;}
+.msgBtn3{left:140px;bottom:35px;background:url(templets/default/images/zn_djfq.png) no-repeat;
+text-decoration:none;}
+
+
+</style>
+  <script type="text/javascript" src="templets/default/js/jquery-1.7.1.min.js">
+  </script>
+<script type="text/javascript">    
+$(document).ready(function() {
+   var ele = $('.msgWrap');
+
+        function setPos(){
+            ele.css({
+                position:'absolute',
+                left: ($(window).width() - ele.outerWidth())/2,
+                top: ($(window).height() - ele.outerHeight())/2 + $(document).scrollTop()
+            });
+        }
+        
+        setPos();
+
+        $(window).resize(function(){
+            setPos();
+        }); 
+
+        $(window).scroll(function(){
+           setPos();
+        });
+
+        $('.msgClose').click(function(event) {
+          ele.hide();
+        });
+        $('.msgBtn3').click(function(event) {
+          ele.hide();
+        });
+         })
+
+</script>
+
+<div class="msgWrap pngImg" id="msgWrap">
+
+       <a href="javascript:void(0);" class="msgClose pngImg"> </a>
+       <a href="lxwm/lxwm.html" class="msgBtn msgBtn2 pngImg"> </a>
+       <a href="javascript:void(0);" class="msgBtn msgBtn3 pngImg"> </a>
+</div>
+
+<div>
+
+</div>
+</body>
+</html>
